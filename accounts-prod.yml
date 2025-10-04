@@ -1,0 +1,11 @@
+build:
+  version: 100.0
+
+accounts:
+  message: "Welcome to the Accounts Service PRDO Environment-from config server"
+  contactDetails:
+    name: "Vijay Baskar"
+    email: "vijaybaskar.kasi@gmail.com"
+  onCallSupport:
+    -(800)-555-1234
+    -(800)-555-9999

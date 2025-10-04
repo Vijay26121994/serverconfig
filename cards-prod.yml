@@ -1,0 +1,11 @@
+build:
+  version: 3.0
+
+cards:
+  message: "Welcome to the Cards Service Production Environment -from config server"
+  contactDetails:
+    name: "Vijay- Product owner"
+    email: "vijaybaskar.kasi@gmail.com"
+  onCallSupport:
+    - "(800)-555-1111"
+    - "(800)-555-1111"

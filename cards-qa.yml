@@ -1,0 +1,11 @@
+build:
+  version: 2.0
+
+cards:
+  message: "Welcome to the Cards Service QA Environment -from file location"
+  contactDetails:
+    name: "Vijay- Tester"
+    email: "vijaybaskar.kasi@gmail.com"
+  onCallSupport:
+    - "(800)-555-2222"
+    - "(800)-555-2222"

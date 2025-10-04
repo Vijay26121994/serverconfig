@@ -1,0 +1,11 @@
+build:
+  version: 33.0
+
+cards:
+  message: "Welcome to the Cards Service Development Environment"
+  contactDetails:
+    name: "Vijay- Developer"
+    email: "vijaybaskar.kasi@gmail.com"
+  onCallSupport:
+    - "(800)-555-0000"
+    - "(800)-555-0000"

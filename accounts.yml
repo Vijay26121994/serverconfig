@@ -1,0 +1,12 @@
+build:
+  version: 3.0
+
+accounts:
+  message: "Welcome to the Accounts Service Development Environment"
+  contactDetails:
+    name: "John Doe"
+    email: "vijaybaskar.kasi@gmail.com"
+  onCallSupport:
+    - "(800)-555-1234"
+    - "(800)-555-5678"
+
