@@ -2,7 +2,7 @@ build:
   version: 2.0
 
 cards:
-  message: "Welcome to the Cards Service QA Environment updated in qa"
+  message: "Welcome to the Cards Service uat Environment - change value in uat"
   contactDetails:
     name: "Vijay- Tester"
     email: "vijaybaskar.kasi@gmail.com"
