@@ -2,7 +2,7 @@ build:
   version: 100.0
 
 accounts:
-  message: "Welcome to the Accounts Service production Environment-from config server"
+  message: "Welcome to the Accounts Service production Environment-using rabbit mq"
   contactDetails:
     name: "Vijay Baskar"
     email: "vijaybaskar.kasi@gmail.com"
