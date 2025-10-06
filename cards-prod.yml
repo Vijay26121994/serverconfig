@@ -2,7 +2,7 @@ build:
   version: 3.0
 
 cards:
-  message: "Welcome to the Cards Service Production Environment -from the github- updated 1222"
+  message: "Welcome to the Cards Service Production Environment -using rabbit mq"
   contactDetails:
     name: "Vijay- Product owner"
     email: "{cipher}30f82306fcba0155941bf9ca256e10c46540e0ab3f80d05795b51d727f5a38da1a55fb79f566708f93b957780aafdcc1"
