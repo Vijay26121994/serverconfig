@@ -2,7 +2,7 @@ build:
   version: 100.0
 
 accounts:
-  message: "Welcome to the Accounts Service production Environment-update using docker compose"
+  message: "Welcome to the Accounts Service production Environment-update using docker value"
   contactDetails:
     name: "Vijay Baskar"
     email: "vijaybaskar.kasi@gmail.com"
