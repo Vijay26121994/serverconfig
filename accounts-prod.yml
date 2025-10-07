@@ -2,7 +2,7 @@ build:
   version: 100.0
 
 accounts:
-  message: "Welcome to the Accounts Service production Environment-using webhook updated"
+  message: "Welcome to the Accounts Service production Environment-update using docker compose"
   contactDetails:
     name: "Vijay Baskar"
     email: "vijaybaskar.kasi@gmail.com"
