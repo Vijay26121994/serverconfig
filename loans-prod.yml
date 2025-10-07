@@ -2,7 +2,7 @@ build:
   version: 3.0
 
 loans:
-  message: "Welcome to the Loans Service Production Environment-using webhooks"
+  message: "Welcome to the Loans Service Production Environment-using webhooks-update value"
   contactDetails:
     name: "Vijay- Product owner"
     email: "vijaybaskar.kasi@gmail.com"
