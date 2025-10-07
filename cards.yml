@@ -2,7 +2,7 @@ build:
   version: 33.0
 
 cards:
-  message: "Welcome to the Cards Service Development Environment"
+  message: "Welcome to the Cards Service Development Environment-with refresh"
   contactDetails:
     name: "Vijay- Developer"
     email: "vijaybaskar.kasi@gmail.com"
